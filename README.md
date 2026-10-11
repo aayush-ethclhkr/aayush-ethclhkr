@@ -177,6 +177,20 @@ motto: "Understand the attack. Engineer the defense."
 -->
 
 ---
+### `root@vyadh:~$ ./youtube.sh`
+
+<div align="center">
+
+## 📺 VYADH // YOUTUBE
+
+CTF Walkthroughs • Ethical Hacking • Pentesting
+Security Research • Exploit Analysis
+
+[![YouTube](https://img.shields.io/badge/YouTube-WATCH_NOW-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@kelnmax)
+
+</div>
+
+---
 
 <div align="center">
 
